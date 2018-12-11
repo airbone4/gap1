@@ -13,6 +13,7 @@
       An example for phonegap build docs.
   </description>
   <content src="index.html" />
+  
   <author href="http://xx.xx" email="xx@xx.com">
       who is this.
   </author>
